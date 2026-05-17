@@ -70,6 +70,7 @@ Pour déployer le projet en local sur votre machine, suivez ces étapes :
    git clone [https://github.com/Aboubaker2K4/Site-Universaaire-.git](https://github.com/Aboubaker2K4/Site-Universaaire-.git)
 2. **Base de données : **
 CREATE DATABASE university;
+```bash
 USE university;
 -- Puis exécuter le contenu de db.sql
 
